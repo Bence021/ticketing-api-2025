@@ -22,7 +22,7 @@ npx prisma init
 Séma változtatás után:
 
 ```bash
-npx prisma migrate dev
+npx prisma migrate dev      \\adatbázis séma váltás
 ```
 
 Első séma definiálása után:
